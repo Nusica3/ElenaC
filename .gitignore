@@ -1,0 +1,6 @@
+JavaApplication1/build/
+*.xml
+JavaApplication1/dist/
+*.mf
+JavaApplication1/nbproject/
+JavaApplication1/test/
